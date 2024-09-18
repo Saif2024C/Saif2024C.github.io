@@ -19,10 +19,10 @@ superuser: true
 role: 
   - title: "Undergraduate Research Intern"
     description: |
-      Studied the electrical properties of K+ and Na+-doped, ferrite-based HECs—a novel green energy source.
+      "Studied the electrical properties of K+ and Na+-doped, ferrite-based HECs—a novel green energy source.
       Investigated the behavior of HECs under changing loads, the decay of generated current/voltage, and the
       change in cell efficiency over time.
-      Used Arduino-interfaced INA219 sensors and Python for data collection and analysis.
+      Used Arduino-interfaced INA219 sensors and Python for data collection and analysis."
     organizations: "Hindu College, University of Delhi"
     start_date: "2022-05-01"
     end_date: "Present"
@@ -30,8 +30,8 @@ role:
 
   - title : "Undegraduate Research Intern"
     description: |
-      Leading research in distributed robotics, AI ethics, and machine learning. 
-      Teaching graduate courses in AI, mentoring PhD students, and organizing conferences.
+      "Leading research in distributed robotics, AI ethics, and machine learning. 
+      Teaching graduate courses in AI, mentoring PhD students, and organizing conferences."
     organizations: "Hindu College, University of Delhi"
     url: "https://hinducollege.ac.in/"
     start_date: "2023-06-15"
