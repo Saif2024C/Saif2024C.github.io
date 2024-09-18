@@ -11,7 +11,6 @@ last_name: Saifullah
 
 # Status emoji
 status: Student
-  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,7 +49,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:saifmohd4357@gmail.com'
     label: E-mail Me
-    
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mohammad-saifullah-a18227226/
 
