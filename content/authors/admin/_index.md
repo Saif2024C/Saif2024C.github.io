@@ -24,10 +24,8 @@ role:
     end_date: "Present"
     description: |
       Studied the electrical properties of K+ and Na+-doped, ferrite-based HECs—a novel green energy source.
-      
       Investigated the behaviour of HECs under changing loads, the decay of generated current/voltage, and the
       change in cell efficiency over time. Compared with various electrochemical cells reported in literature.
-      
       Used Arduino-interfaced INA219 sensors and Python for data collection and analysis. Curve fit current decay vs time curves to report various statistical metrics using scikit-learn
 
   - title : Undegraduate Research Intern
@@ -58,13 +56,7 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 
-  - icon : brands/github
-    url : https://github.com/Saif2024C
-    label : Github
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Author's website URL
-website: ""
 ---
