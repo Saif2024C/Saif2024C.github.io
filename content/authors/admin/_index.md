@@ -17,7 +17,7 @@ superuser: true
 
 # Role/position/tagline
 role: 
-- title : Undegraduate Research Intern
+  - title : Undegraduate Research Intern
     organizations: Hindu College, University of Delhi
     url: https://hinducollege.ac.in/
     start_date: "2022-05-01"
@@ -30,7 +30,7 @@ role:
       
       Used Arduino-interfaced INA219 sensors and Python for data collection and analysis. Curve fit current decay vs time curves to report various statistical metrics using scikit-learn
 
-- title : Undegraduate Research Intern
+  - title : Undegraduate Research Intern
     organizations: Hindu College, University of Delhi
     url: https://hinducollege.ac.in/
     start_date: "2023-06-15"
