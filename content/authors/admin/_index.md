@@ -17,29 +17,30 @@ superuser: true
 
 # Role/position/tagline
 role: 
-  - title : Undegraduate Research Intern
-    organizations: Hindu College, University of Delhi
-    url: https://hinducollege.ac.in/
-    start_date: "2022-05-01"
-    end_date: "Present"
+  - title: "Undergraduate Research Intern"
     description: |
       Studied the electrical properties of K+ and Na+-doped, ferrite-based HECs—a novel green energy source.
-      Investigated the behaviour of HECs under changing loads, the decay of generated current/voltage, and the
-      change in cell efficiency over time. Compared with various electrochemical cells reported in literature.
-      Used Arduino-interfaced INA219 sensors and Python for data collection and analysis. Curve fit current decay vs time curves to report various statistical metrics using scikit-learn
-
-  - title : Undegraduate Research Intern
-    organizations: Hindu College, University of Delhi
-    url: https://hinducollege.ac.in/
-    start_date: "2023-06-15"
+      Investigated the behavior of HECs under changing loads, the decay of generated current/voltage, and the
+      change in cell efficiency over time.
+      Used Arduino-interfaced INA219 sensors and Python for data collection and analysis.
+    organizations: "Hindu College, University of Delhi"
+    start_date: "2022-05-01"
     end_date: "Present"
+    url: "https://hinducollege.ac.in/"
+
+  - title : "Undegraduate Research Intern"
     description: |
       Leading research in distributed robotics, AI ethics, and machine learning. 
       Teaching graduate courses in AI, mentoring PhD students, and organizing conferences.
+    organizations: "Hindu College, University of Delhi"
+    url: "https://hinducollege.ac.in/"
+    start_date: "2023-06-15"
+    end_date: "Present"
+
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
