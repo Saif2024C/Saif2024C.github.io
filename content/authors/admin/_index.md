@@ -1,28 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: Mohammad Saifullah
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mohammad
+last_name: Saifullah
 
 # Status emoji
-status:
-  icon: ☕️
+status: Student
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 
+- title : Undegraduate Research Intern
+    organizations: Hindu College, University of Delhi
+    url: https://hinducollege.ac.in/
+    start_date: "2022-05-01"
+    end_date: "Present"
+    description: |
+      Studied the electrical properties of K+ and Na+-doped, ferrite-based HECs—a novel green energy source.
+      
+      Investigated the behaviour of HECs under changing loads, the decay of generated current/voltage, and the
+      change in cell efficiency over time. Compared with various electrochemical cells reported in literature.
+      
+      Used Arduino-interfaced INA219 sensors and Python for data collection and analysis. Curve fit current decay vs time curves to report various statistical metrics using scikit-learn
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- title : Undegraduate Research Intern
+    organizations: Hindu College, University of Delhi
+    url: https://hinducollege.ac.in/
+    start_date: "2023-06-15"
+    end_date: "Present"
+    description: |
+      Leading research in distributed robotics, AI ethics, and machine learning. 
+      Teaching graduate courses in AI, mentoring PhD students, and organizing conferences.
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,21 +48,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:saifmohd4357@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mohammad-saifullah-a18227226/
+
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+
+  - icon : brands/github
+    url : https://github.com/Saif2024C
+    label : Github
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -53,7 +69,3 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
